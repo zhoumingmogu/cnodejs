@@ -1,13 +1,5 @@
 #基于vue.js重写Cnodejs.org社区的webapp [线上访问地址](http://shinygang.coding.me/)
 
-## 注意：当前项目代码已经升级到2.0，采用vue-cli构建的2.0版本。1.x代码请看1.x分支。
-
-## 当前版本采用vue-cli搭建的版本。 非vue-cli的版本请看分支：not-vue-cli
-
--------
-如果你觉得该项目对你有帮助，就打赏作者一杯咖啡吧。
-![pic](https://segmentfault.com/img/bVqVEt)
-
 ###安装
 
 项目地址：（`git clone`）
@@ -52,5 +44,3 @@ npm run build
 │   ├── filters.js     // 各种过滤器
 │   └── main.js        // Webpack 预编译入口
 </pre>
-
-
